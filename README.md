@@ -42,7 +42,3 @@ Para rodar este projeto, você precisará instalar as seguintes dependências:
 ## Contribuições
 
 Se você tiver sugestões ou correções para este projeto, sinta-se à vontade para abrir uma **issue** ou **pull request**.
-
-## Licença
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
